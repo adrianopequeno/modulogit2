@@ -1,1 +1,3 @@
-Meu primeiro sistema GIT (alterado e atualizado!)
+Meu primeiro sistema GIT
+
+Criando o arquivo script.js, a pasta src com o arquivo estilo.css
